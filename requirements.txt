@@ -21,7 +21,7 @@ pytz>=2022.0
 
 # Para debugging y desarrollo
 requests>=2.28.0
-
+gunicorn
 # Librerías estándar de Python (incluidas por defecto pero listadas por claridad)
 # subprocess - incluido en Python estándar
 # os - incluido en Python estándar  
